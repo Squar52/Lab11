@@ -1,0 +1,10 @@
+Technology has changed the way people live, work and communicate. A few decades ago, letters took days to arrive, and a simple question could take weeks to answer. Today a message crosses the planet in a second.
+Still, many people say that real learning needs time and patience. A student who reads a book slowly often remembers more than someone who only looks at a screen for a minute.
+The best solution is to use both: modern tools to find information quickly, and quiet hours to think about it carefully.
+
+--- Vowel frequency ---
+a: 37 (22.7%)
+e: 52 (31.9%)
+i: 20 (12.3%)
+o: 42 (25.8%)
+u: 12 (7.4%)
